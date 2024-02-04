@@ -54,7 +54,6 @@ $ Abra o arquivo index.html
 
 &nbsp;
 
-
 &nbsp;
 
 ## 📝 Licença
