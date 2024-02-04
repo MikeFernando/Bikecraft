@@ -2,7 +2,7 @@
 
 &nbsp;
 
-![mock1](https://user-images.githubusercontent.com/71772559/113496123-d0aa6800-94cc-11eb-90dd-800b72502003.png)
+![mock1](https://photos.google.com/photo/AF1QipMrISTjAqkRtHNPYnx7_hCuwywO5W1ERCHcKCd3.gif)
 
 ## 📚 Informações sobre o projeto
 
