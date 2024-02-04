@@ -2,9 +2,10 @@
 
 &nbsp;
 
-![mock1](https://photos.google.com/photo/AF1QipMrISTjAqkRtHNPYnx7_hCuwywO5W1ERCHcKCd3.gif)
-
 ## 📚 Informações sobre o projeto
+
+![mock2](https://imgur.com/tbHkYiO.png)
+
 
 * Website especializado em bicicletas de alta performance  
 * Bicicletas elétricas de alta precisão e qualidade.
@@ -20,7 +21,7 @@
 
 &nbsp;
 
-![mock2](https://user-images.githubusercontent.com/71772559/113496313-c8532c80-94ce-11eb-9404-1b48d8febbb8.png)
+![mock2](https://imgur.com/tfypGRP.png)
 
 &nbsp;
 
@@ -32,7 +33,6 @@
 
 &nbsp;
 
-<img src="https://user-images.githubusercontent.com/71772559/113496052-32b69d80-94cc-11eb-87ae-a1abda0e06f9.gif" width="100%" />
 
 &nbsp;
 
